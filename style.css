@@ -94,3 +94,9 @@ body{
 .media{
     padding-left: 150px;
 }
+.media-button{
+    
+    text-decoration: none;
+    
+    font-weight: 700;
+}
