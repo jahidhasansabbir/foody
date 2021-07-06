@@ -3,7 +3,7 @@ body{
     margin: 0;
 }
 .header-section{
-    background-color: rgb(202, 174, 82);
+    background-color: rgb(0, 90, 250);
     width: 100%;
   
 }
@@ -35,7 +35,7 @@ body{
 .fast-delivary-image{
     margin-left: 150px;
 }
-#text-get{
+.text-get{
     color: rgb(201, 161, 87);
 }
 .button{
@@ -52,4 +52,45 @@ body{
     background-repeat: no-repeat;
     background-position: right;
     padding-bottom: 40px;
+}
+#my-recipies{
+    text-align: center;
+    margin-top: 40px;
+    padding-bottom: 60px;
+}
+.recipies{
+    margin-left: 100px;
+    margin-right: 150px;
+}
+.box-shadow{
+    box-shadow: 5px 5px 15px gray;
+    margin-left: 70px;
+    padding:10px;
+    border-radius: 15px;
+    width: 33%;
+    margin-left: 30px;
+    margin-right: 40px;
+    margin-bottom: 80px;
+}
+.box-shadow-image{
+    width:100%;
+    border-radius: 15px;
+}
+.footer{
+    background-color: rgb(11, 14, 23);
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.box{
+    width: 77%;
+    box-shadow: 5px 5px 11px gray;
+    margin-left: 9.5%;
+    margin-bottom: 70px;
+    border-radius: 15px;
+
+}
+.media{
+    padding-left: 150px;
 }
