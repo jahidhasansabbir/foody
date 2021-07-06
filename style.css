@@ -1,9 +1,61 @@
-.history-foodpanda{
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.header-section{
+    background-color: rgb(202, 174, 82);
+  
+}
+.flex{
     display: flex;
 }
-#bitting-a-berger{
-    width: 50px;
+.pathao-logo{
+    margin-left: 100px;
+    color: white;
+    font-weight: 700;
+    font-size: 100px;
 }
-div{
-    width: 50px;
+.search-item{
+    margin-left: 600px;
+    margin-top: 50px;
+}
+
+.history-foodpanda{
+    
+}
+.bitting-a-berger{
+    width: 50%;
+}
+#history-color{
+    color:rgb(218, 171, 85);
+}
+.button{
+    background-image: linear-gradient(rgb(219, 168, 74), rgb(212, 101, 37));
+    text-decoration: none;
+    padding: 10px 15px;
+    border-radius: 20px;
+    color: white;
+    font-weight: 700;
+
+}
+
+.img{
+    width:100%;
+    height: auto;
+    border-radius: 20px;
+    
+}
+.mar{
+    width: 100%;
+    margin-left: 50px;
+    box-shadow: 5px 5px 10px gray;
+    padding: 10px;
+    border-radius: 20px;
+}
+h1{
+    font-size: 30px;
+}
+.mari{
+    margin-left: 100px;
+    margin-right: 150px;
 }
