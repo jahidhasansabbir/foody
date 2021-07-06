@@ -19,15 +19,22 @@ body{
     margin-left: 600px;
     margin-top: 50px;
 }
-
-.history-foodpanda{
-    
+.fast-delivary{
+    padding-top: 80px;
+    background-image: url(images/shapes/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+    background-position-x:-150px ;
+    padding-bottom: 40px;
 }
-.bitting-a-berger{
-    width: 50%;
+.fast-delivary-text{
+    margin-left: 100px;
+    width: 350px;
 }
-#history-color{
-    color:rgb(218, 171, 85);
+.fast-delivary-image{
+    margin-left: 150px;
+}
+#text-get{
+    color: rgb(201, 161, 87);
 }
 .button{
     background-image: linear-gradient(rgb(219, 168, 74), rgb(212, 101, 37));
